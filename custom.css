@@ -1,12 +1,16 @@
-.section1{
-  background-color: #C0C0C0;
-}
 .section2{
-  background-color: #1A1C1D;
+  background-image: url('/img/section2.jpg');
+    background-size: cover;
 }
 .section3{
-  background-color: green;
+  background-image: url('/img/section3.jpg');
+    background-size: cover;
 }
 .section4{
-  background-color: violet;
+  background-image: url('/img/section4.jpg');
+    background-size: cover;
+}
+.section {
+  text-align: center;
+  font-size: 3em;
 }
