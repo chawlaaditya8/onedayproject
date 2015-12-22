@@ -1,0 +1,18 @@
+{
+  "name": "onedayproject",
+  "homepage": "https://github.com/chawlaaditya8/onedayproject",
+  "authors": [
+    "chawlaaditya8 <chawlaaditya8@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
